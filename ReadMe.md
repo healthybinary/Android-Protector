@@ -37,6 +37,14 @@ dependencies {
 
 > BE AWARE MAKE SURE THE PACKAGE NAME IS CORRECT AND MATCH THE ACTUAL PACKAGE NAME OF YOUR APPLICATION OR YOUR APP WILL CRASH ON RUN. (WARNED YA :P).
 
+- Create new file and extend AppLib of the library
+
+<img src="imgs/Screenshot_5.png">
+
+- Add the App into the Manifest file
+
+<img src="imgs/Screenshot_6.png">
+
 - Build your app and release it and don't worry of those cheap reverse tricks.
 
 ---
